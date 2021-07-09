@@ -5,7 +5,7 @@ from text_basics.pdf_files import log_first_pdf_page
 """
 
 
-
+import nlp_basics
 
 
 """ string_literals() """
